@@ -1,6 +1,6 @@
 # Macro-Managing
 
-[/apm/l/:packageName](https://img.shields.io/apm/l/vim-mode)
+<img alt="APM" src="https://img.shields.io/apm/l/vim-mode">
 
 This is a client side employee manager that lets you view, hire, and even fire your pesky employees with just the touch of a button. I used MySQL2 and javascript 
 to configure this item
